@@ -16,3 +16,5 @@
 <img width="694" alt="Toc ss Ep5 a^n b^2n PDA" src="https://github.com/jyothishchowdary/SLOT-B--CSA1369-TOC/assets/114043942/ed0ecb74-81a7-4cdf-a96c-d5dc26cd7ad9">
 <img width="517" alt="Toc ss Ep9 bac,ac,a DFA" src="https://github.com/jyothishchowdary/SLOT-B--CSA1369-TOC/assets/114043942/bf0fb9e4-0db8-49de-b5d0-c450c06ad1b6">
 ![image](https://github.com/jyothishchowdary/SLOT-B--CSA1369-TOC/assets/114043942/4651b111-ed08-4bea-966e-5dc1fe216522)
+![image](https://github.com/jyothishchowdary/SLOT-B--CSA1369-TOC/assets/114043942/7670d272-1e70-4acb-bf00-2e5aa3059132)
+![image](https://github.com/jyothishchowdary/SLOT-B--CSA1369-TOC/assets/114043942/4a61a994-50d2-4a6a-bed0-ec391de715b8)
